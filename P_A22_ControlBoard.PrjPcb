@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SDQKPTLU
 
 [Document3]
-DocumentPath=D:\MyEDA_Library\[0300] Discrete Semiconductors\[0303] MOSFETs\Project Outputs for [0303]FS8205A_SOP65P640X120-8N\[0303]FS8205A_SOP65P640X120-8N.IntLib
+DocumentPath=..\..\MyEDA_Library\[0300] Discrete Semiconductors\[0303] MOSFETs\Project Outputs for [0303]FS8205A_SOP65P640X120-8N\[0303]FS8205A_SOP65P640X120-8N.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=D:\MyEDA_Library\[0300] Discrete Semiconductors\[0303] MOSFETs\Project Outputs for [0303]FS8205_SOT95P280X145-6N\[0303]FS8205_SOT95P280X145-6N.IntLib
+DocumentPath=..\..\MyEDA_Library\[0300] Discrete Semiconductors\[0303] MOSFETs\Project Outputs for [0303]FS8205_SOT95P280X145-6N\[0303]FS8205_SOT95P280X145-6N.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +118,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=D:\MyEDA_Library\[0000] Passive components\[0001] Resistor\SMD Resistors.DbLib
+DocumentPath=PCB1.CSPcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=..\..\MyEDA_Library\[0000] Passive components\[0001] Resistor\New folder\SMD Resistors.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
