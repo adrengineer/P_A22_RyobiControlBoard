@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=CtlBoard - Copy.SchDoc
+Record=TopLevelDocument|FileName=CtlBoard.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CtlBoard.SchDoc|FileName=CtlBoard - Copy.SchDoc|SheetNumber=1
