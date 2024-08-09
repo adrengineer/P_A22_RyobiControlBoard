@@ -1,0 +1,43 @@
+Change Component Designator: OldDesignator=TEST1 NewDesignator=Vbat+SWT
+Change Component Designator: OldDesignator=TEST2 NewDesignator=Motor+
+Change Component Designator: OldDesignator=TEST3 NewDesignator=Motor-
+Change Component Designator: OldDesignator=TEST4 NewDesignator=vbat-
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=-Vbat Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=J1-A1/B12
+Added Pin To Net: NetName=GND Pin=J1-B1/A12
+Added Pin To Net: NetName=-Vbat Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_4 Pin=Q3-4
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-5
+Added Pin To Net: NetName=NetQ3_6 Pin=Q3-6
+Added Pin To Net: NetName=-Vbat Pin=Q4-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=NetQ3_4 Pin=Q4-4
+Added Pin To Net: NetName=NetQ3_2 Pin=Q4-5
+Added Pin To Net: NetName=NetQ3_6 Pin=Q4-6
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=+Vbat Pin=R9-1
+Added Pin To Net: NetName=NetC4_2 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetQ3_6 Pin=U2-1
+Added Pin To Net: NetName=NetR10_2 Pin=U2-2
+Added Pin To Net: NetName=NetQ3_4 Pin=U2-3
+Added Pin To Net: NetName=NetC4_2 Pin=U2-5
+Added Pin To Net: NetName=-Vbat Pin=U2-6
+Added Member To Class: ClassName=CtlBoard Member=Component C4 100N
+Added Member To Class: ClassName=CtlBoard Member=Component Motor+ TESTPINT
+Added Member To Class: ClassName=CtlBoard Member=Component Motor- TESTPINT
+Added Member To Class: ClassName=CtlBoard Member=Component Q3 FS8205
+Added Member To Class: ClassName=CtlBoard Member=Component Q4 FS8205
+Added Member To Class: ClassName=CtlBoard Member=Component R9 100R
+Added Member To Class: ClassName=CtlBoard Member=Component R10 1K0
+Added Member To Class: ClassName=CtlBoard Member=Component U2 LITHUM PROTECTION
+Added Member To Class: ClassName=CtlBoard Member=Component Vbat+SWT TESTPINT
+Added Member To Class: ClassName=CtlBoard Member=Component vbat- TESTPINT

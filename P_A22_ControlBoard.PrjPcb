@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=PCB1.CSPcbDoc
+DocumentPath=..\..\MyEDA_Library\[0000] Passive components\[0001] Resistor\New folder\SMD Resistors.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\MyEDA_Library\[0000] Passive components\[0001] Resistor\New folder\SMD Resistors.DbLib
+DocumentPath=..\..\MyEDA_Library\AllPCB_Std_vias.PvLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -650,6 +650,36 @@ OutputName10=Web Review Data
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
+OutputType11=Ansoft Neutral
+OutputName11=Ansoft Neutral (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=HyperLynx
+OutputName12=HyperLynx (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=MathWorks
+OutputName13=MathWorks (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
