@@ -1,0 +1,73 @@
+Protel Design System Design Rule Check
+PCB File : D:\Adrian. Projects\P_A22_RyobiControlBoard\CtlBoard_issueA.PcbDoc
+Date     : 19/08/2024
+Time     : 14:57:21
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+   Violation between Clearance Constraint: (0.226mm < 0.254mm) Between Track (67.358mm,-30.338mm)(67.358mm,-25.358mm) on Top Layer And Via (68.434mm,-26.25mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.226mm < 0.254mm) Between Track (67.358mm,-30.338mm)(67.358mm,-25.358mm) on Top Layer And Via (68.434mm,-27.314mm) from Top Layer to Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (HasFootprint('USBc4110-GF-A_REVB')),(HasFootprint('USBc4110-GF-A_REVB'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad J1-(39.8mm,-31.61mm) on Multi-Layer And Polygon Region (28 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J1-(39.8mm,-31.61mm) on Multi-Layer And Polygon Region (30 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J1-(39.8mm,-31.61mm) on Multi-Layer And Polygon Region (65 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J1-(39.8mm,-37.39mm) on Multi-Layer And Polygon Region (28 hole(s)) Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J1-(39.8mm,-37.39mm) on Multi-Layer And Polygon Region (30 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J1-(39.8mm,-37.39mm) on Multi-Layer And Polygon Region (65 hole(s)) Bottom Layer Location : [X = 0mm][Y = 0mm]
+Rule Violations :6
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Region (0 hole(s)) Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Region (0 hole(s)) Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Region (0 hole(s)) Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Region (0 hole(s)) Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Region (0 hole(s)) Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Region (0 hole(s)) Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Region (0 hole(s)) Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Region (0 hole(s)) Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Region (0 hole(s)) Top Layer Dead Copper - Net Not Assigned.
+Rule Violations :9
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.076mm) (Max=3mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.15mm) (Max=6.5mm) (InNetClass('All Nets'))
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.15mm) (Max=6.5mm) (InNetClass('All Nets'))
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.15mm) (Max=6.5mm) (InNetClass('All Nets'))
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (38.071mm,-31.071mm)(39.271mm,-31.071mm) on Top Layer 
+   Violation between Net Antennae: Track (38mm,-37.9mm)(38.245mm,-38.145mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Height Constraint (Min=0mm) (Max=30mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 19
+Waived Violations : 0
+Time Elapsed        : 00:00:01

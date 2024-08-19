@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetD1_1 Pin=Motor+-1
+Added Member To Class: ClassName=CtlBoard Member=Component Motor+ TESTPINT
+Added Member To Class: ClassName=CtlBoard Member=Component Motor- TESTPINT
